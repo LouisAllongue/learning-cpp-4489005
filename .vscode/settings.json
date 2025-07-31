@@ -13,7 +13,7 @@
   "editor.tabSize": 4,
   "editor.detectIndentation": false,
   "editor.useTabStops": true,
-  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingBrackets": "always",
   "emmet.triggerExpansionOnTab": true,
   "explorer.openEditors.visible": 10,
   "files.autoSave": "afterDelay",
